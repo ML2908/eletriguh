@@ -321,7 +321,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #16151b;
 }
 
 .section-title h2::after {
@@ -330,7 +330,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #0026ff;
   bottom: 0;
   left: 0;
 }
@@ -389,7 +389,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: #0026ff;
   float: left;
   line-height: 0;
 }
